@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ananaze.github.io/website-mk-com/sitemap.xml
